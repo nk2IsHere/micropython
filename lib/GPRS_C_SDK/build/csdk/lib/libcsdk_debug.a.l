@@ -1,0 +1,16 @@
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/api_debug.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/assert.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/buffer.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/cJSON.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/cJSON_Utils.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/gps.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/gps_parse.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/hal_gpio.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/log2f.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/log2.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/math.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/minmea.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/ntp.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/sdk_init.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/stdlib.o
+/home/nk2/micropython/lib/GPRS_C_SDK/build//csdk/obj/debug/time.o

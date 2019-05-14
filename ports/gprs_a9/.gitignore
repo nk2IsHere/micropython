@@ -1,0 +1,4 @@
+build
+*.lod
+hex
+.vscode
