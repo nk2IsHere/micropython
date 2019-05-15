@@ -124,7 +124,8 @@ SRC_C = \
 	file_io.c \
 	modcellular.c \
 	modgps.c \
-	modusocket.c
+	modusocket.c \
+	modi2c.c
 
 
 LIB_SRC_C = $(addprefix lib/,\
